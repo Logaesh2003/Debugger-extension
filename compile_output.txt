@@ -1,0 +1,82 @@
+
+> debugger-extension@0.0.1 compile
+> tsc -p ./
+
+../../../../node_modules/@types/mapbox-gl/index.d.ts(326,19): error TS2552: Cannot find name 'HTMLImageElement'. Did you mean 'HTMLLIElement'?
+../../../../node_modules/@types/mapbox-gl/index.d.ts(329,19): error TS2304: Cannot find name 'ImageData'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(330,19): error TS2304: Cannot find name 'ImageBitmap'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(337,19): error TS2552: Cannot find name 'HTMLImageElement'. Did you mean 'HTMLLIElement'?
+../../../../node_modules/@types/mapbox-gl/index.d.ts(340,19): error TS2304: Cannot find name 'ImageData'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(341,19): error TS2304: Cannot find name 'ImageBitmap'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(348,67): error TS2552: Cannot find name 'HTMLImageElement'. Did you mean 'HTMLLIElement'?
+../../../../node_modules/@types/mapbox-gl/index.d.ts(348,86): error TS2304: Cannot find name 'ImageBitmap'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(417,25): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(419,31): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(421,22): error TS2304: Cannot find name 'HTMLCanvasElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(662,29): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1120,26): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1131,26): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1164,27): error TS2304: Cannot find name 'Geolocation'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1197,21): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1228,23): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1234,33): error TS2304: Cannot find name 'Node'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1366,33): error TS2304: Cannot find name 'HTMLImageElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1366,33): error TS2552: Cannot find name 'HTMLImageElement'. Did you mean 'HTMLLIElement'?
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1366,52): error TS2304: Cannot find name 'ImageData'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1366,64): error TS2304: Cannot find name 'ImageBitmap'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1394,24): error TS2304: Cannot find name 'HTMLImageElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1394,24): error TS2552: Cannot find name 'HTMLImageElement'. Did you mean 'HTMLLIElement'?
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1394,43): error TS2304: Cannot find name 'ImageData'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1394,55): error TS2304: Cannot find name 'ImageBitmap'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1480,21): error TS2304: Cannot find name 'HTMLVideoElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1526,26): error TS2304: Cannot find name 'HTMLCanvasElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1532,22): error TS2304: Cannot find name 'HTMLCanvasElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1542,26): error TS2304: Cannot find name 'HTMLCanvasElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1832,31): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1842,23): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1879,19): error TS2304: Cannot find name 'HTMLElement'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1969,52): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(1991,52): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2005,52): error TS2304: Cannot find name 'WheelEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2012,58): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2048,58): error TS2304: Cannot find name 'WebGLContextEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2187,32): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2187,45): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2187,58): error TS2304: Cannot find name 'WheelEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2188,27): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2188,40): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2188,53): error TS2304: Cannot find name 'WheelEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2189,30): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2189,43): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2189,56): error TS2304: Cannot find name 'WheelEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2191,32): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2191,45): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2191,58): error TS2304: Cannot find name 'WheelEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2192,27): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2192,40): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2192,53): error TS2304: Cannot find name 'WheelEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2193,30): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2193,43): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2193,56): error TS2304: Cannot find name 'WheelEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2195,34): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2195,47): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2196,29): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2196,42): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2197,32): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2197,45): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2199,32): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2199,45): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2200,27): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2200,40): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2201,30): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2201,43): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2203,33): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2203,46): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2204,28): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2204,41): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2205,31): error TS2304: Cannot find name 'MouseEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2205,44): error TS2304: Cannot find name 'TouchEvent'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2362,42): error TS2304: Cannot find name 'WebGLRenderingContext'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2370,39): error TS2304: Cannot find name 'WebGLRenderingContext'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2387,24): error TS2304: Cannot find name 'WebGLRenderingContext'.
+../../../../node_modules/@types/mapbox-gl/index.d.ts(2413,20): error TS2304: Cannot find name 'WebGLRenderingContext'.
